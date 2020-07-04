@@ -1,0 +1,22 @@
+{
+  "name": "dom-project-additemstolist",
+  "version": "1.0.0",
+  "description": "add items to list using DOM.",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman339/Dom-project-additemstolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman339/Dom-project-additemstolist/issues"
+  },
+  "homepage": "https://github.com/aman339/Dom-project-additemstolist#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
